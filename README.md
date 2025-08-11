@@ -1,7 +1,7 @@
 # Import_risk_Mpox
 
 ## Import_risk_Mpox.R
-This is an R code for calculating the importation risk of Mpox from Hong Kong to Shenze.
+This is an R code for calculating the importation risk of Mpox from Hong Kong to Shenzhen.
 
 ## Method
 Details can be found in the Method part of the manuscript.
